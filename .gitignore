@@ -1,0 +1,9 @@
+venv_new/
+venv/
+dataset/
+data/
+*.h5
+*.pt
+*.pth
+__pycache__/
+.env
